@@ -1,1 +1,1 @@
-console.log("Final commit")
+console.log("Conflict 1")
